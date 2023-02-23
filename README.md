@@ -1,0 +1,1 @@
+The local repo is named daugherty.github.io for dumb reasons and now it's too complicated to change it. But the remote is named home and the website is at https://mjdaugherty.github.io/home
